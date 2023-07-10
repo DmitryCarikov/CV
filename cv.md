@@ -100,3 +100,8 @@ public static string PigIt(string str)
 - Course on development of game applications on Unity based on BRU
 - EPAM AutoCode
 ***
+
+## 8. English language
+
+Level: B1 (according to IELTS testing)
+***
