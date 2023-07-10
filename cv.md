@@ -93,3 +93,10 @@ public static string PigIt(string str)
 
 - **Skills used**: SQL Server
 ***
+
+## 7. Courses and trainings
+
+- Course on developing MARP web pages based on BRU
+- Course on development of game applications on Unity based on BRU
+- EPAM AutoCode
+***
