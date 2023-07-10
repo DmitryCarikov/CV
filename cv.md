@@ -88,3 +88,8 @@ public static string PigIt(string str)
 ### Project: Web site layout for English language school courses
 
 - **Skills used**: HTML, CSS, JavaScript
+
+### Project: Creation of System for counting proffesors workload
+
+- **Skills used**: SQL Server
+***
